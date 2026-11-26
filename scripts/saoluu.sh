@@ -38,4 +38,11 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') | $TENFILE | $TRANGTHAI" >> "$LOG"
 echo ""
 echo "DANH SACH FILE DA SAO LUU:"
 ls -lh "$BACKUP"
+echo ""
+echo "KIEM TRA FILE SAO LUU:"
+if [ -f "$BACKUP/$TENFILE" ]; then
+    echo "File sao luu ton tai va hop le!"
+else
+    echo "File sao luu khong ton tai!"
+fi
 

@@ -1,0 +1,39 @@
+========== KIEM TRA HE THONG ==========
+Ten nguoi dung: hahu
+Ten may tinh: Kaye
+Ngay gio hien tai: Thu Nov 26 02:10:09 UTC 2026
+Phien ban Linux Kernel: 6.18.58.1-microsoft-standard-WSL2
+
+========== THONG TIN RAM ==========
+               total        used        free      shared  buff/cache   available
+Mem:           7.7Gi       521Mi       7.0Gi       4.4Mi       279Mi       7.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+========== DUNG LUONG O DIA ==========
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         476G  348G  128G  74% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.9G   36K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  3.4M  3.9G   1% /init
+none            3.9G  812K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   80K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   80K  3.9G   1% /mnt/wslg/doc
+C:\             476G  348G  128G  74% /mnt/c
+D:\             932G  1.3G  931G   1% /mnt/d
+tmpfs           3.9G     0  3.9G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+snapfuse         33M   33M     0 100% /snap/snapd/28332
+snapfuse         75M   75M     0 100% /snap/core22/3129
+snapfuse        4.5M  4.5M     0 100% /snap/tree/54
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           787M   12K  787M   1% /run/user/1000
+
+========== KIEM TRA KET NOI MANG ==========
+Co ket noi mang
